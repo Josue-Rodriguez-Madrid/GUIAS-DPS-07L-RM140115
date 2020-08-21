@@ -1,0 +1,22 @@
+{
+  "name": "guialabdps07l",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josue-Rodriguez-Madrid/GUIAS-DPS-07L-RM140115.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josue-Rodriguez-Madrid/GUIAS-DPS-07L-RM140115/issues"
+  },
+  "homepage": "https://github.com/Josue-Rodriguez-Madrid/GUIAS-DPS-07L-RM140115#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
