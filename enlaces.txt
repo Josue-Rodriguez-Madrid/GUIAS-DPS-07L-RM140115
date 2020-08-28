@@ -1,0 +1,5 @@
+enlaces:
+
+enlace GUIAS-DPS-07L-RM140115: https://github.com/Josue-Rodriguez-Madrid/GUIAS-DPS-07L-RM140115.git
+
+git remote add origin https://github.com/Josue-Rodriguez-Madrid/GUIAS-DPS-07L-RM140115.git

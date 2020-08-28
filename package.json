@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Josue-Rodriguez-Madrid/GUIAS-DPS-07L-RM140115#readme",
   "dependencies": {
-    "http-server": "^0.12.3"
+    "bootstrap": "^4.5.2",
+    "http-server": "^0.12.3",
+    "jquery": "^3.5.1"
   }
 }
